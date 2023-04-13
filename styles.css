@@ -1,0 +1,13 @@
+body {
+    font-family: Montserrat, sans-serif;
+    color: #414141;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto, sans-serif;
+}
+.page-container {
+    background-color:#FFFAFA;
+    border: solid 1px #EEEEEE;
+    margin: 1em;
+    padding: 1em;
+}
